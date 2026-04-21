@@ -1,7 +1,7 @@
 
 import java.util.HashSet;
 
-public class validsudoku {
+public class longestconsecu {
     // public static void main(String[] args) {
     //     int[] nums = {10, 5, 12, 3, 55, 4, 11};
     //     HashSet<Integer> set = new HashSet<>();
